@@ -44,3 +44,7 @@
     font-family: 'Overpass', sans-serif;
     background-color: #f1f1f1;
 }
+
+span.display {
+    padding-right: 10px;
+}
